@@ -1,0 +1,23 @@
+{
+  "name": "jasmine-random-example",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azu/jasmine-random-example.git"
+  },
+  "author": "azu",
+  "email": "azuciao@gmail.com",
+  "homepage": "https://github.com/azu/jasmine-random-example",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/jasmine-random-example/issues"
+  },
+  "version": "1.0.0",
+  "description": "jasmine example",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
